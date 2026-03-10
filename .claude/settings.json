@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:technijian.com)",
+      "Bash(pip install pypdf pdfplumber)",
+      "Read(//tmp/**)",
+      "Bash(npm list -g docx)",
+      "Bash(npm install -g docx)",
+      "Bash(node templates/generate-docx.js)",
+      "Bash(npm install docx)",
+      "Bash(pip install python-docx)",
+      "Bash(python -c \":*)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\rjain\\.claude\\projects\\c--VSCode-tech-legal-tech-legal",
+      "\\tmp\\tech-branding\\assets"
+    ]
+  }
+}
